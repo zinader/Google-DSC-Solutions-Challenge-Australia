@@ -74,11 +74,6 @@
       "name": "gatherFootnotes",
       "filename": "/Users/admin/Git_Downloads/Google-DSC-Solutions-Challenge-Australia/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
       "hash": "MQTrF/M6KykTU/hjGZK6DA=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/admin/Git_Downloads/Google-DSC-Solutions-Challenge-Australia/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "ff+2hYKnKsLT0sLNJyx4WQ=="
     }
   ],
   "components": [
